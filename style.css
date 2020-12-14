@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    margin-left: 630px;
+    color: palegreen; 
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+   }
+
+
+   .header{
+    background-color: coral;  
+    display: flex;
+    justify-content: space-between;
+  }
+
+  body{
+    background: black;
+    color: whitesmoke;
+}
+
+.chameleon-text{
+  display: flex;
+  justify-content: space-between;
+  color:green
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:blue
+}
+
+.cicada-text{
+  display: flex;
+  justify-content: space-between;
+  color: bisque;
+}
+
+.camel-text{
+  display: flex;
+  justify-content: space-between;
+  color:gold
+}
